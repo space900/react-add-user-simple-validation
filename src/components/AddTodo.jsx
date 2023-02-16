@@ -31,6 +31,9 @@ function AddTodo({todo, setTodo, setIsPopupOpen, setIsErrorList}) {
                     status: true,
                 }]
             )
+            setName('')
+            setAge('')
+
         } else {
             setIsPopupOpen(true)
         }
