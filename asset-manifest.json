@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-add-user-simple-validation/static/css/main.0ab6ef7f.css",
-    "main.js": "/react-add-user-simple-validation/static/js/main.0a235fea.js",
+    "main.css": "/react-add-user-simple-validation/static/css/main.f1fcf4f5.css",
+    "main.js": "/react-add-user-simple-validation/static/js/main.8fdab03e.js",
     "index.html": "/react-add-user-simple-validation/index.html",
     "static/media/close_icon.svg": "/react-add-user-simple-validation/static/media/close_icon.b9c42c3d39897f658ef5.svg",
-    "main.0ab6ef7f.css.map": "/react-add-user-simple-validation/static/css/main.0ab6ef7f.css.map",
-    "main.0a235fea.js.map": "/react-add-user-simple-validation/static/js/main.0a235fea.js.map"
+    "main.f1fcf4f5.css.map": "/react-add-user-simple-validation/static/css/main.f1fcf4f5.css.map",
+    "main.8fdab03e.js.map": "/react-add-user-simple-validation/static/js/main.8fdab03e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ab6ef7f.css",
-    "static/js/main.0a235fea.js"
+    "static/css/main.f1fcf4f5.css",
+    "static/js/main.8fdab03e.js"
   ]
 }
