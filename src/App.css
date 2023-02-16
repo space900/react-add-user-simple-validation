@@ -70,6 +70,12 @@ h2{
   background: url(./images/close_icon.svg) no-repeat center;
 }
 
+.popup__close-big{
+  display: block;
+  margin: 40px auto auto;
+  font-weight: bold;
+}
+
 .error_items{
   display: flex;
   flex-direction: column;

@@ -19,6 +19,12 @@ function Popup({isPopupOpen, setIsPopupOpen, errorList}) {
                 <div className="error_items">
                     {errorList.map(error => <span className="error_item" key={error}>{error}</span> ) }
                 </div>
+                <button
+                    className="popup__close-big"
+                    type="button"
+                    onClick={closePopup}>
+                    Хорошо
+                </button>
             </div>
         </div>
     )
