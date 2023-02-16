@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-add-user-simple-validation/static/css/main.459103bb.css",
-    "main.js": "/react-add-user-simple-validation/static/js/main.a2a3e828.js",
+    "main.css": "/react-add-user-simple-validation/static/css/main.0ab6ef7f.css",
+    "main.js": "/react-add-user-simple-validation/static/js/main.0a235fea.js",
     "index.html": "/react-add-user-simple-validation/index.html",
     "static/media/close_icon.svg": "/react-add-user-simple-validation/static/media/close_icon.b9c42c3d39897f658ef5.svg",
-    "main.459103bb.css.map": "/react-add-user-simple-validation/static/css/main.459103bb.css.map",
-    "main.a2a3e828.js.map": "/react-add-user-simple-validation/static/js/main.a2a3e828.js.map"
+    "main.0ab6ef7f.css.map": "/react-add-user-simple-validation/static/css/main.0ab6ef7f.css.map",
+    "main.0a235fea.js.map": "/react-add-user-simple-validation/static/js/main.0a235fea.js.map"
   },
   "entrypoints": [
-    "static/css/main.459103bb.css",
-    "static/js/main.a2a3e828.js"
+    "static/css/main.0ab6ef7f.css",
+    "static/js/main.0a235fea.js"
   ]
 }
