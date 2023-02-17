@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-add-user-simple-validation/static/css/main.f1fcf4f5.css",
-    "main.js": "/react-add-user-simple-validation/static/js/main.8fdab03e.js",
+    "main.js": "/react-add-user-simple-validation/static/js/main.a1daf7bc.js",
     "index.html": "/react-add-user-simple-validation/index.html",
     "static/media/close_icon.svg": "/react-add-user-simple-validation/static/media/close_icon.b9c42c3d39897f658ef5.svg",
     "main.f1fcf4f5.css.map": "/react-add-user-simple-validation/static/css/main.f1fcf4f5.css.map",
-    "main.8fdab03e.js.map": "/react-add-user-simple-validation/static/js/main.8fdab03e.js.map"
+    "main.a1daf7bc.js.map": "/react-add-user-simple-validation/static/js/main.a1daf7bc.js.map"
   },
   "entrypoints": [
     "static/css/main.f1fcf4f5.css",
-    "static/js/main.8fdab03e.js"
+    "static/js/main.a1daf7bc.js"
   ]
 }
